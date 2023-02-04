@@ -1,3 +1,0 @@
-/home/bvi/homework/vscode-hello-template/build/CMakeFiles/hello.dir
-/home/bvi/homework/vscode-hello-template/build/CMakeFiles/edit_cache.dir
-/home/bvi/homework/vscode-hello-template/build/CMakeFiles/rebuild_cache.dir
